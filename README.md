@@ -1,4 +1,4 @@
-![logo] (![image](https://github.com/user-attachments/assets/d9a65122-b677-4e3c-a5f7-fb29970fd27b)
+![logo] (https://github.com/Sanjar06/Monu/blob/main/1_20250526_211210_0000.png)
 <h1 align="center">Hi 👋, I'm Sanjar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
