@@ -1,3 +1,4 @@
+![logo] (![image](https://github.com/user-attachments/assets/d9a65122-b677-4e3c-a5f7-fb29970fd27b)
 <h1 align="center">Hi 👋, I'm Sanjar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
